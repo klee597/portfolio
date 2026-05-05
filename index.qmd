@@ -3,17 +3,18 @@ title: "Welcome"
 format: html
 ---
 
+<img src="images/linkedin-banner.jpg" style="width:100%; border-radius:12px; margin-bottom:24px;">
+
 # 🌸 Hi, I'm Krystal
+
 <div style="text-align:center;">
-  <img src="krystal.png" class="profile-pic">
+  <img src="Krystal.JPG" class="profile-pic">
 </div>
 
 Welcome to my digital marketing & analytics portfolio — a curated collection of projects showcasing my work in:
 
 -   Digital marketing strategy\
 -   Marketing analytics\
--   GA4 insights\
--   Reveal.js storytelling\
 -   Brand ambassador & event marketing
 
 <div class="card">

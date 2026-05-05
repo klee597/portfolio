@@ -82,3 +82,16 @@ I create regular posts for [@theRBAC](https://www.instagram.com/therbac/) coveri
 :::
 
 ---
+
+### 2. 🎵 Spotify Business Analysis — Whittier College
+**🗓 April 2023 | Co-presented with Isabella Garcia**
+
+In 2023, before Spotify launched its AI DJ feature, my group partner and I recommended that Spotify implement AI-driven personalization tools to deepen engagement and differentiate from competitors. Shortly after, Spotify began rolling out exactly that.
+
+- 🎯 **Focus:** AI integration strategy, music personalization, competitive positioning
+- 📈 **Outcome:** Proposed AI-driven recommendations — features Spotify later launched
+
+<div class="card" style="text-align:center; padding: 24px;">
+  <p style="margin-bottom:16px;">Browse all 24 slides — click to expand fullscreen, use arrow keys to navigate.</p>
+  <a class="btn" href="spotify-slideshow.html" target="_blank">🎞️ Open Interactive Presentation</a>
+</div>
