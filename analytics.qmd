@@ -60,7 +60,13 @@ This page showcases my hands-on experience using data analytics, visualization, 
 -   The lack of statistical significance may reflect a **ceiling effect** — participants rated both emails highly, leaving little room to detect meaningful differences.
 -   Future research could explore trust differences with **larger, more diverse samples** or test emails with stronger AI personalization cues.
 ------------------------------------------------------------------------
-<div class="card" style="text-align:center; padding: 24px;">
-  <p style="margin-bottom:16px;">Browse all 33 slides — click to expand fullscreen, use arrow keys to navigate.</p>
-  <a class="btn" href="mein3d-slideshow.html" target="_blank">🎞️ Open Interactive Presentation</a>
+
+<div class="card">
+  <p style="margin-bottom:12px; color:#888; font-size:0.9rem;">Click the slide below to open the full interactive presentation ↓</p>
+  <a href="mein3d-slideshow.html" target="_blank" style="display:block; position:relative; border-radius:12px; overflow:hidden; max-width:700px; margin:0 auto;">
+    <img src="images/mein3d-thumb.png" style="width:100%; display:block; border-radius:12px; box-shadow: 0 4px 14px rgba(255,105,180,0.25);">
+    <div style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); background:rgba(0,0,0,0.55); border-radius:50%; width:72px; height:72px; display:flex; align-items:center; justify-content:center;">
+      <div style="width:0; height:0; border-top:18px solid transparent; border-bottom:18px solid transparent; border-left:30px solid white; margin-left:6px;"></div>
+    </div>
+  </a>
 </div>
