@@ -124,7 +124,11 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#marketing-analytics-projects" id="toc-marketing-analytics-projects" class="nav-link active" data-scroll-target="#marketing-analytics-projects">📊 Marketing Analytics Projects</a>
   <ul class="collapse">
-  <li><a href="#projects" id="toc-projects" class="nav-link" data-scroll-target="#projects">✨ Projects</a></li>
+  <li><a href="#ai-personalized-email-marketing-consumer-trust" id="toc-ai-personalized-email-marketing-consumer-trust" class="nav-link" data-scroll-target="#ai-personalized-email-marketing-consumer-trust">1. AI-Personalized Email Marketing &amp; Consumer Trust</a>
+  <ul class="collapse">
+  <li><a href="#key-findings" id="toc-key-findings" class="nav-link" data-scroll-target="#key-findings">📊 Key Findings</a></li>
+  <li><a href="#insights" id="toc-insights" class="nav-link" data-scroll-target="#insights">💡 Insights</a></li>
+  </ul></li>
   </ul></li>
   </ul>
 </nav>
@@ -151,30 +155,103 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="card">
-<h2 class="anchored">
-📊 Analytics Work
-</h2>
-<ul>
-<li>
-<a href="projects/ga4-traffic.qmd">GA4 Website Traffic Analysis</a>
-</li>
-<li>
-<a href="projects/reveal-presentation.qmd">Reveal.js Presentation</a>
-</li>
-</ul>
-</div>
 <section id="marketing-analytics-projects" class="level1">
 <h1>📊 Marketing Analytics Projects</h1>
-<p>This section highlights my analytics work, including GA4, forecasting, segmentation, and Reveal.js storytelling.</p>
-<section id="projects" class="level2">
-<h2 class="anchored" data-anchor-id="projects">✨ Projects</h2>
+<p>This page showcases my hands-on experience using data analytics, visualization, and strategic insight to solve real-world marketing problems.</p>
+<hr>
+<section id="ai-personalized-email-marketing-consumer-trust" class="level2">
+<h2 class="anchored" data-anchor-id="ai-personalized-email-marketing-consumer-trust">1. AI-Personalized Email Marketing &amp; Consumer Trust</h2>
+<p><strong>Culminating Experience Project (CEP)</strong> — Graduate research investigating whether AI-personalized emails generate higher consumer trust compared to standard emails, using an experimental survey design.</p>
 <ul>
-<li><a href="projects/ga4-traffic.qmd">GA4 Website Traffic Analysis</a></li>
-<li><a href="projects/reveal-presentation.qmd">Reveal.js Presentation</a></li>
+<li>🎯 <strong>Focus:</strong> AI email personalization, consumer trust, and email marketing effectiveness</li>
+<li>📊 <strong>Tools Used:</strong> R, Qualtrics, Excel</li>
+<li>🔬 <strong>Methodology:</strong> Experimental design (A/B test), One-Way ANOVA, Tukey HSD post-hoc test, Likert-scale survey (10 trust items)</li>
+<li>📈 <strong>Outcome:</strong> AI-personalized emails scored slightly higher in trust (M = 4.24) versus control (M = 4.16), but the difference was not statistically significant (F = 0.745, p = 0.39), suggesting trust levels are comparably high across both conditions.</li>
+</ul>
+<hr>
+<section id="key-findings" class="level3">
+<h3 class="anchored" data-anchor-id="key-findings">📊 Key Findings</h3>
+<p><strong>Average Trust Score by Condition</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/ai-trust-bar.png" class="img-fluid figure-img"></p>
+<figcaption>Bar chart showing AI condition (4.24) vs Control condition (4.16) average trust scores</figcaption>
+</figure>
+</div>
+<p><strong>95% Tukey Confidence Interval</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/tukey-ci.png" class="img-fluid figure-img"></p>
+<figcaption>Tukey confidence interval plot showing the difference in means crosses zero, indicating no significant difference</figcaption>
+</figure>
+</div>
+<p><strong>Summary Statistics Table</strong></p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 69%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Statistic</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Mean Trust (AI)</td>
+<td>4.24</td>
+</tr>
+<tr class="even">
+<td>Mean Trust (Control)</td>
+<td>4.16</td>
+</tr>
+<tr class="odd">
+<td>Mean Difference</td>
+<td>0.08</td>
+</tr>
+<tr class="even">
+<td>F-Statistic</td>
+<td>0.745</td>
+</tr>
+<tr class="odd">
+<td>p-Value</td>
+<td>0.39</td>
+</tr>
+<tr class="even">
+<td>95% CI (Tukey)</td>
+<td>[-0.280, 0.110]</td>
+</tr>
+<tr class="odd">
+<td>Tukey p-Value</td>
+<td>0.39</td>
+</tr>
+<tr class="even">
+<td>Interpretation</td>
+<td>No statistically significant difference in trust</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trust Item Breakdown by Condition</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/trust-breakdown.png .png" class="img-fluid figure-img"></p>
+<figcaption>Horizontal bar chart comparing AI vs Control scores across all 10 trust survey items</figcaption>
+</figure>
+</div>
+<hr>
+</section>
+<section id="insights" class="level3">
+<h3 class="anchored" data-anchor-id="insights">💡 Insights</h3>
+<ul>
+<li>Both AI and control emails generated <strong>high trust scores</strong> (above 4.0 on a 5-point scale), suggesting the email content itself was well-received regardless of personalization.</li>
+<li>The AI condition scored higher on <strong>data comfort</strong> and <strong>accuracy/reliability</strong>, while the control scored slightly higher on <strong>privacy respect</strong> and <strong>authenticity</strong>.</li>
+<li>The lack of statistical significance may reflect a <strong>ceiling effect</strong> — participants rated both emails highly, leaving little room to detect meaningful differences.</li>
+<li>Future research could explore trust differences with <strong>larger, more diverse samples</strong> or test emails with stronger AI personalization cues.</li>
 </ul>
 
 
+</section>
 </section>
 </section>
 
