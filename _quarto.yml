@@ -1,7 +1,10 @@
 project:
   type: website
   output-dir: docs   
-
+  resources:
+    - mein3d-slideshow.html
+    - spotify-slideshow.html
+    
 website:
   title: "Krystal Lee"
   navbar:

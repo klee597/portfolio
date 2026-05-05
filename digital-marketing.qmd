@@ -42,24 +42,30 @@ I designed and distributed monthly employee newsletters using **Feathr**, coveri
 
 ### 🎥 Video Content — Water Safety Month
 
-<div class="card">
+:::::: card
 <h3>🌊 "Water Safety Begins Before You Get On the Pool Deck"</h3>
+
 <p>Featured in an RBAC community-wide email blast, this video stars me as <strong>Assistant Lifeguard Manager</strong>, walking the RBAC community through the daily pool preparation checklist — showing how water safety is built into everything before a swimmer ever steps on deck.</p>
+
 <p>Sent to the full RBAC community as part of <strong>Water Safety Month (May 2026)</strong>, promoting the <em>Treading for Water Safety Challenge</em> fundraiser.</p>
-<a href="https://www.youtube.com/watch?v=Vg0kY3PfxBY" target="_blank" style="display:block;position:relative;border-radius:12px;overflow:hidden;max-width:600px;margin:16px auto;">
-<img src="images/video-thumbnail.png" style="width:100%;display:block;border-radius:12px;"/>
-<div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(0,0,0,0.6);border-radius:50%;width:72px;height:72px;display:flex;align-items:center;justify-content:center;">
-<div style="width:0;height:0;border-top:18px solid transparent;border-bottom:18px solid transparent;border-left:30px solid white;margin-left:6px;"></div>
-</div>
+
+<a href="https://www.youtube.com/watch?v=Vg0kY3PfxBY" target="_blank" style="display:block;position:relative;border-radius:12px;overflow:hidden;max-width:600px;margin:16px auto;"> <img src="images/video-thumbnail.png" style="width:100%;display:block;border-radius:12px;"/>
+
+:::: {style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(0,0,0,0.6);border-radius:50%;width:72px;height:72px;display:flex;align-items:center;justify-content:center;"}
+::: {style="width:0;height:0;border-top:18px solid transparent;border-bottom:18px solid transparent;border-left:30px solid white;margin-left:6px;"}
+:::
+::::
+
 </a>
-<div style="text-align:center;margin-top:12px;">
+
+::: {style="text-align:center;margin-top:12px;"}
 <a class="btn" href="https://polo.feathr.co/v1/view_email?cpn_id=69c18d5f941832ded8bbf0ed&t_id=69c19544d23ca1842fc75e14" target="_blank">📧 View the Community Email Blast</a>
-</div>
-</div>
+:::
+::::::
 
 ### 📱 Instagram Content
 
-I create regular posts for [@theRBAC](https://www.instagram.com/therbac/) covering program promotions, water safety awareness, community events, and staff highlights.
+I create regular posts for [\@theRBAC](https://www.instagram.com/therbac/) covering program promotions, water safety awareness, community events, and staff highlights.
 
 ::: {style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 16px;"}
 [![](images/post1.png)](https://www.instagram.com/p/DWUdCXaEv_h/)
@@ -81,17 +87,23 @@ I create regular posts for [@theRBAC](https://www.instagram.com/therbac/) coveri
 [![](images/post9.png)](https://www.instagram.com/p/DXxFZo4SBgb/)
 :::
 
----
+------------------------------------------------------------------------
 
 ### 2. 🎵 Spotify Business Analysis — Whittier College
-**🗓 April 2023 | Co-presented with Isabella Garcia**
+
+**🗓 April 2023 \| Co-presented with Isabella Garcia**
 
 In 2023, before Spotify launched its AI DJ feature, my group partner and I recommended that Spotify implement AI-driven personalization tools to deepen engagement and differentiate from competitors. Shortly after, Spotify began rolling out exactly that.
 
-- 🎯 **Focus:** AI integration strategy, music personalization, competitive positioning
-- 📈 **Outcome:** Proposed AI-driven recommendations — features Spotify later launched
+-   🎯 **Focus:** AI integration strategy, music personalization, competitive positioning
+-   📈 **Outcome:** Proposed AI-driven recommendations — features Spotify later launched
 
-<div class="card" style="text-align:center; padding: 24px;">
-  <p style="margin-bottom:16px;">Browse all 24 slides — click to expand fullscreen, use arrow keys to navigate.</p>
-  <a class="btn" href="spotify-slideshow.html" target="_blank">🎞️ Open Interactive Presentation</a>
-</div>
+::: {.card style="text-align:center; padding: 24px;"}
+<p style="margin-bottom:16px;">
+
+Browse all 24 slides — click to expand fullscreen, use arrow keys to navigate.
+
+</p>
+
+<a class="btn" href="spotify-slideshow.html" target="_blank">🎞️ Open Interactive Presentation</a>
+:::

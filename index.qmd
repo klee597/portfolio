@@ -3,13 +3,11 @@ title: "Welcome"
 format: html
 ---
 
-<img src="images/linkedin-banner.jpg" style="width:100%; border-radius:12px; margin-bottom:24px;">
-
 # 🌸 Hi, I'm Krystal
 
-<div style="text-align:center;">
-  <img src="Krystal.JPG" class="profile-pic">
-</div>
+::: {style="text-align:center;"}
+<img src="images/Krystal.jpg" class="profile-pic"/>
+:::
 
 Welcome to my digital marketing & analytics portfolio — a curated collection of projects showcasing my work in:
 
@@ -17,25 +15,30 @@ Welcome to my digital marketing & analytics portfolio — a curated collection o
 -   Marketing analytics\
 -   Brand ambassador & event marketing
 
-<div class="card">
-  <h2>✨ Explore My Work</h2>
-  <ul>
-    <li><a href="digital-marketing.qmd">Digital Marketing Projects</a></li>
-    <li><a href="analytics.qmd">Marketing Analytics Projects</a></li>
-    <li><a href="resume.qmd">Resume</a></li>
-  </ul>
-</div>
+::: card
+<h2>✨ Explore My Work</h2>
 
-I'm a Digital Marketing Master's student at Cal Poly Pomona with hands-on experience in: 
+<ul>
 
-- Event operations (Rose Bowl Stadium) 
-- Aquatics marketing & HR (RBAC) 
-- Brand ambassador campaigns (Farmer John Tour and Disney x Brooks) 
-- Data-driven marketing analytics
+<li><a href="digital-marketing.qmd">Digital Marketing Projects</a></li>
+
+<li><a href="analytics.qmd">Marketing Analytics Projects</a></li>
+
+<li><a href="resume.qmd">Resume</a></li>
+
+</ul>
+:::
+
+I'm a Digital Marketing Master's student at Cal Poly Pomona with hands-on experience in:
+
+-   Event operations (Rose Bowl Stadium)
+-   Aquatics marketing & HR (RBAC)
+-   Brand ambassador campaigns (Farmer John Tour and Disney x Brooks)
+-   Data-driven marketing analytics
 
 I love blending creativity with analytics to tell compelling stories.
 
 ## Let’s Connect
 
-[<i class="bi bi-linkedin"></i> Connect on LinkedIn](https://www.linkedin.com/in/krystal-lee-37992b233)  
+[<i class="bi bi-linkedin"></i> Connect on LinkedIn](https://www.linkedin.com/in/krystal-lee-37992b233)\
 [<i class="bi bi-envelope-fill"></i> Email Me](mailto:krystallovelee15@gmail.com)
