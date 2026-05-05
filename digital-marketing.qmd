@@ -1,19 +1,84 @@
 ---
 title: "Digital Marketing Projects"
+format:
+  html:
+    include-in-header: []
+    page-layout: full
+execute:
+  echo: false
 ---
 
 # 🌸 Digital Marketing Projects
 
+This page showcases selected projects from my professional and academic experience in campaign strategy, content creation, and lifecycle marketing.
+
+------------------------------------------------------------------------
+
+## 1. 🏊 Digital Marketing Assistant — Rose Bowl Aquatics Center
+
+**📅 March 2026 – Present \| Pasadena, CA**
+
+As Digital Marketing Assistant, I create and manage content across social media, email campaigns, and video — supporting the RBAC's mission of water safety, community engagement, and program awareness.
+
+### 📧 Employee Email Newsletters
+
+I designed and distributed monthly employee newsletters using **Feathr**, covering staff spotlights, upcoming events, new hires, and internal announcements.
+
+::: card
+<h3>📬 March 2026 Employee Newsletter</h3>
+
+<p>Highlighted Gratitude Grams, welcomed new team members, announced CPR/AED certification opportunities, and introduced my own role as Digital Marketing Assistant.</p>
+
+<a class="btn" href="https://polo.feathr.co/v1/view_email?cpn_id=69c1bde98af2d7cb598dbdbb&t_id=69c1bde98af2d7cb598dbdbc" target="_blank">✨ View March Newsletter</a>
+:::
+
+::: card
+<h3>📬 April 2026 Employee Newsletter</h3>
+
+<p>Promoted the Dodgers Night employee event with RSVP link, introduced new team members, highlighted the Pasadena Triathlon and UCLA Spring Game, and teased the upcoming Mother's Day Scavenger Hunt.</p>
+
+<a class="btn" href="https://polo.feathr.co/v1/view_email?cpn_id=69dd03005bb251ce5953a24f&t_id=69dd03005bb251ce5953a250" target="_blank">✨ View April Newsletter</a>
+:::
+
+### 🎥 Video Content — Water Safety Month
+
 <div class="card">
-  <h2>✨ Featured Projects</h2>
-  <ul>
-    <li><a href="projects/sample-marketing-project.qmd">Sample Marketing Project</a></li>
-  </ul>
+<h3>🌊 "Water Safety Begins Before You Get On the Pool Deck"</h3>
+<p>Featured in an RBAC community-wide email blast, this video stars me as <strong>Assistant Lifeguard Manager</strong>, walking the RBAC community through the daily pool preparation checklist — showing how water safety is built into everything before a swimmer ever steps on deck.</p>
+<p>Sent to the full RBAC community as part of <strong>Water Safety Month (May 2026)</strong>, promoting the <em>Treading for Water Safety Challenge</em> fundraiser.</p>
+<a href="https://www.youtube.com/watch?v=Vg0kY3PfxBY" target="_blank" style="display:block;position:relative;border-radius:12px;overflow:hidden;max-width:600px;margin:16px auto;">
+<img src="images/video-thumbnail.png" style="width:100%;display:block;border-radius:12px;"/>
+<div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(0,0,0,0.6);border-radius:50%;width:72px;height:72px;display:flex;align-items:center;justify-content:center;">
+<div style="width:0;height:0;border-top:18px solid transparent;border-bottom:18px solid transparent;border-left:30px solid white;margin-left:6px;"></div>
+</div>
+</a>
+<div style="text-align:center;margin-top:12px;">
+<a class="btn" href="https://polo.feathr.co/v1/view_email?cpn_id=69c18d5f941832ded8bbf0ed&t_id=69c19544d23ca1842fc75e14" target="_blank">📧 View the Community Email Blast</a>
+</div>
 </div>
 
-Below are selected projects showcasing my work in campaign strategy, content creation, and lifecycle marketing.
+### 📱 Instagram Content
 
-## ✨ Projects
+I create regular posts for [@theRBAC](https://www.instagram.com/therbac/) covering program promotions, water safety awareness, community events, and staff highlights.
 
--   [Sample Marketing Project](projects/sample-marketing-project.qmd)
--   (Add more as needed)
+::: {style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 16px;"}
+[![](images/post1.png)](https://www.instagram.com/p/DWUdCXaEv_h/)
+
+[![](images/post2.png)](https://www.instagram.com/p/DWZkda4kk5P/)
+
+[![](images/post3.png)](https://www.instagram.com/p/DW13cjeD4ld/)
+
+[![](images/post4.png)](https://www.instagram.com/p/DXXjx9VkvTR/)
+
+[![](images/post5.png)](https://www.instagram.com/p/DXaA1gEEks9/)
+
+[![](images/post6.png)](https://www.instagram.com/p/DXe8Kx1CW89/)
+
+[![](images/post7.png)](https://www.instagram.com/p/DXpp4a3EoYS/)
+
+[![](images/post8.png)](https://www.instagram.com/p/DXzimL7JBLS/)
+
+[![](images/post9.png)](https://www.instagram.com/p/DXxFZo4SBgb/)
+:::
+
+---
