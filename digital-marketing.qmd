@@ -1,0 +1,19 @@
+---
+title: "Digital Marketing Projects"
+---
+
+# 🌸 Digital Marketing Projects
+
+<div class="card">
+  <h2>✨ Featured Projects</h2>
+  <ul>
+    <li><a href="projects/sample-marketing-project.qmd">Sample Marketing Project</a></li>
+  </ul>
+</div>
+
+Below are selected projects showcasing my work in campaign strategy, content creation, and lifecycle marketing.
+
+## ✨ Projects
+
+-   [Sample Marketing Project](projects/sample-marketing-project.qmd)
+-   (Add more as needed)

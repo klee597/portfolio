@@ -1,0 +1,74 @@
+---
+title: "Resume"
+---
+
+# 💼 Resume
+
+<div class="card">
+  <h2>📄 View My Resume</h2>
+
+  <iframe 
+      src="Krystal_Resume.pdf"
+      width="100%" 
+      height="600px"
+      style="border: 1px solid #ffd1e8; border-radius: 12px;">
+  </iframe>
+</div>
+<a class="btn" href="Krystal_Resume.pdf" target="_blank">✨ Download Resume</a>
+
+## Professional Experience
+
+**Rose Bowl Stadium**
+**Guest Service Representative | Pasadena, CA | April 2025 – Present**
+
+- Provide guest services, resolve issues, and support VIP access during major events.
+- Assist Ticketmaster entry operations including scanning, credentials, and wrist banding
+- Support event managers to maintain smooth operations for high‑volume crowds Major Events: FIFA World Cup
+(50,000+), Rose Bowl Game (90,000+)
+
+**Havas Street**
+**Brand Ambassador | Los Angeles, CA | November 2025**
+
+- Supported event activation, guest engagement, and brand representation at high‑traffic events for Farmer John
+Mobile Tour and RunDisney X Brooks
+
+**Rose Bowl Aquatics Center**
+**Digital Marketing Assistant | Pasadena, CA | March 2026 - Present**
+
+- Create and manage digital content for social media, email campaigns, and website updates
+- Analyze campaign performance and audience engagement to optimize marketing strategies
+
+**Human Resources Assistant | Pasadena, CA | April 2024 - Present**
+
+- Lead talent acquisition and onboarding for 100+ employees, ensuring accurate documentation and smooth
+processes
+- Manage confidential employee records, HR inboxes, and internal communications
+- Support payroll and timekeeping through Paychex Flex
+- Coordinate scheduling, invoices, and administrative workflows for director
+
+**Assistant Lifeguard Manager | Pasadena, CA | December 2024 - Present**
+
+- Supervise 50+ staff and manage daily schedules, adjusting coverage in real time
+- Lead interviews, orientations, and training for new hires.
+- Support operations including inventory, customer service, and staff meetings.
+
+## Education
+
+-   **MS Digital Marketing – Cal Poly Pomona**
+-   **BA Business Administration (Marketing) – Whittier College**
+
+## Skills
+
+-   **Human Resources & Talent Support:** HR practices; talent acquisition, recruiting, and retention; employee
+onboarding, offboarding, and documentation; personnel communication and correspondence
+
+-   **Operations & Administration:** Project and time management; purchasing, inventory, and budget coordination;
+event operations support; team supervision and leadership; community relations and engagement
+
+-   **Customer & Guest Experience:** Customer service, guest relations, and front‑line event support including
+Ticketmaster entry operations
+
+-   **Technical Skills**: MS Office, Google Workspace and Analytics, Slack, Canva, Qualtrics, HubSpot, Tableau, R
+Studio
+
+-   **Bilingual:** English (Fluent), Spanish (Conversational)

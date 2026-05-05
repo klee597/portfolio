@@ -1,0 +1,19 @@
+---
+title: "Marketing Analytics Projects"
+---
+<div class="card">
+  <h2>📊 Analytics Work</h2>
+  <ul>
+    <li><a href="projects/ga4-traffic.qmd">GA4 Website Traffic Analysis</a></li>
+    <li><a href="projects/reveal-presentation.qmd">Reveal.js Presentation</a></li>
+  </ul>
+</div>
+
+# 📊 Marketing Analytics Projects
+
+This section highlights my analytics work, including GA4, forecasting, segmentation, and Reveal.js storytelling.
+
+## ✨ Projects
+
+-   [GA4 Website Traffic Analysis](projects/ga4-traffic.qmd)
+-   [Reveal.js Presentation](projects/reveal-presentation.qmd)

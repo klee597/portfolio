@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs   
+
+website:
+  title: "Krystal Lee"
+  navbar:
+    background: "#f7c6d9"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: digital-marketing.qmd
+        text: "Digital Marketing Projects"
+      - href: analytics.qmd
+        text: "Marketing Analytics"
+      - href: resume.qmd
+        text: "Resume"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

@@ -1,0 +1,41 @@
+---
+title: "GA4 Website Traffic Analysis"
+---
+
+# 📈 GA4 Website Traffic Analysis
+
+## Project Title
+
+Optimizing Website Engagement Using GA4 Traffic Insights
+
+## Data & Source
+
+-   GA4 event-based website analytics\
+-   Exported via GA4 interface or BigQuery
+
+## Managerial Problem
+
+The business lacks visibility into which channels drive high-quality traffic and where users drop off.
+
+## Target Audience
+
+Marketing Director, CEO, Analytics Team
+
+## Research Questions
+
+1.  Which channels drive the most engaged users\
+2.  What pages have the highest drop-off\
+3.  Which campaigns contribute most to conversions
+
+## Expected Impact
+
+-   Better budget allocation\
+-   Improved UX\
+-   Higher marketing ROI
+
+## Methods
+
+-   Funnel analysis\
+-   Attribution modeling\
+-   Segmentation\
+-   Data visualization in R/Quarto
