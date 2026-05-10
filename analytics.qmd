@@ -59,9 +59,6 @@ This page showcases my hands-on experience using data analytics, visualization, 
 -   The AI condition scored higher on **data comfort** and **accuracy/reliability**, while the control scored slightly higher on **privacy respect** and **authenticity**.
 
 -   The lack of statistical significance may reflect a **ceiling effect** — participants rated both emails highly, leaving little room to detect meaningful differences.
-
--   
-
-    ## Future research could explore trust differences with **larger, more diverse samples** or test emails with stronger AI personalization cues.
+## Future research could explore trust differences with **larger, more diverse samples** or test emails with stronger AI personalization cues.
 
 ------------------------------------------------------------------------
