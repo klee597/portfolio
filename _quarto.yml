@@ -2,8 +2,8 @@ project:
   type: website
   output-dir: docs
   resources:
-    - mein3d-slideshow.html
-    - spotify-slideshow.html
+    - MEin3D_Presentation_deliverable-3.html
+    - mein3d-slides.css
 
 website:
   title: "Krystal Lee"

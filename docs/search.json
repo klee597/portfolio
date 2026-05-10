@@ -14,18 +14,60 @@
     "text": "📅 March 2026 – Present | Pasadena, CA\nAs Digital Marketing Assistant, I create and manage content across social media, email campaigns, and video — supporting the RBAC’s mission of water safety, community engagement, and program awareness.\n\n\nI designed and distributed monthly employee newsletters using Feathr, covering staff spotlights, upcoming events, new hires, and internal announcements.\n\n\n\nHighlighted Gratitude Grams, welcomed new team members, announced CPR/AED certification opportunities, and introduced my own role as Digital Marketing Assistant.\n\n✨ View March Newsletter\n\n\n\n\nPromoted the Dodgers Night employee event with RSVP link, introduced new team members, highlighted the Pasadena Triathlon and UCLA Spring Game, and teased the upcoming Mother’s Day Scavenger Hunt.\n\n✨ View April Newsletter\n\n\n\n\n\n\n\nFeatured in an RBAC community-wide email blast, this video stars me as Assistant Lifeguard Manager, walking the RBAC community through the daily pool preparation checklist — showing how water safety is built into everything before a swimmer ever steps on deck.\n\n\nSent to the full RBAC community as part of Water Safety Month (May 2026), promoting the Treading for Water Safety Challenge fundraiser.\n\n \n\n\n\n\n\n\n\n📧 View the Community Email Blast\n\n\n\n\n\nI create regular posts for @theRBAC covering program promotions, water safety awareness, community events, and staff highlights.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🗓 April 2023 | Co-presented with Isabella Garcia\nIn 2023, before Spotify launched its AI DJ feature, my group partner and I recommended that Spotify implement AI-driven personalization tools to deepen engagement and differentiate from competitors. Shortly after, Spotify began rolling out exactly that.\n\n🎯 Focus: AI integration strategy, music personalization, competitive positioning\n📈 Outcome: Proposed AI-driven recommendations — features Spotify later launched"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Welcome to my digital marketing & analytics portfolio — a curated collection of projects showcasing my work in:\n\nDigital marketing strategy\n\nMarketing analytics\n\nBrand ambassador & event marketing\n\n\n\n\n\nDigital Marketing Projects\n\n\nMarketing Analytics Projects\n\n\nResume\n\n\n\nI’m a Digital Marketing Master’s student at Cal Poly Pomona with hands-on experience in:\n\nEvent operations (Rose Bowl Stadium)\nAquatics marketing & HR (RBAC)\nBrand ambassador campaigns (Farmer John Tour and Disney x Brooks)\nData-driven marketing analytics\n\nI love blending creativity with analytics to tell compelling stories.\n\n\n Connect on LinkedIn\n Email Me"
+    "objectID": "MEin3D_Presentation_deliverable-3.html#business-problem-project-overview",
+    "href": "MEin3D_Presentation_deliverable-3.html#business-problem-project-overview",
+    "title": "From Clicks to Conversions",
+    "section": "Business Problem & Project Overview",
+    "text": "Business Problem & Project Overview\n\n\n\nMEin3D — small startup specializing in custom 3D-printed figurines for life’s milestones.\nMEin3D lacked automated, personalized, data-driven communication — limiting trust, engagement, and long-term customer value.\n\n\n\n\n\nAO\nQuestion\nMethod\n\n\n\n\nAO1\nNon-personalized baseline?\nFunnel analysis\n\n\nAO2\nDoes AI affect trust?\nOne-way ANOVA\n\n\nAO3\nSocial behavior → engagement?\nA/B test\n\n\nAO4\nWhich CTA drives lift?\nZ-test\n\n\nAO5\nWhere do users drop off?\nGA4 funnel"
   },
   {
-    "objectID": "index.html#lets-connect",
-    "href": "index.html#lets-connect",
-    "title": "Welcome",
-    "section": "",
-    "text": "Connect on LinkedIn\n Email Me"
+    "objectID": "MEin3D_Presentation_deliverable-3.html#ao1-non-personalized-baseline",
+    "href": "MEin3D_Presentation_deliverable-3.html#ao1-non-personalized-baseline",
+    "title": "From Clicks to Conversions",
+    "section": "AO1 — Non-Personalized Baseline",
+    "text": "AO1 — Non-Personalized Baseline\nJessica Garcia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetric\nValue\n\n\n\n\nDeliverability\n96.1%\n\n\nOpen Rate\n27.3%\n\n\nClick-to-Open Rate\n10.0%\n\n\nUnsubscribes\n0\n\n\n\n\nKey finding: 90% drop-off between open and click. The content and CTA are the bottleneck — not the subject line. This directly motivates AO4."
+  },
+  {
+    "objectID": "MEin3D_Presentation_deliverable-3.html#ao2-ai-personalization-trust",
+    "href": "MEin3D_Presentation_deliverable-3.html#ao2-ai-personalization-trust",
+    "title": "From Clicks to Conversions",
+    "section": "AO2 — AI Personalization & Trust",
+    "text": "AO2 — AI Personalization & Trust\nKrystal Lee\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistic\nValue\n\n\n\n\nMean Trust (AI)\n4.24\n\n\nMean Trust (Control)\n4.16\n\n\nF-Statistic\n0.745\n\n\np-Value\n0.39\n\n\n95% CI (Tukey)\n[−0.280, 0.110]\n\n\n\n\nAI personalization does not erode trust — green light to scale personalized campaigns."
+  },
+  {
+    "objectID": "MEin3D_Presentation_deliverable-3.html#ao3-social-behavior-engagement",
+    "href": "MEin3D_Presentation_deliverable-3.html#ao3-social-behavior-engagement",
+    "title": "From Clicks to Conversions",
+    "section": "AO3 — Social Behavior & Engagement",
+    "text": "AO3 — Social Behavior & Engagement\nNerina Campos\nMeta signals (likes, shares, saves, comments) used to classify subscribers → personalized vs. generic\n\n\n\n\n\nEmail Type\nSubject Line\nSent\nOpened\nClicked\nOpen Rate\nClick Rate\n\n\n\n\nPersonalized\nYour Car Could Be Next 🚗 |\n73|\n19|\n4|\n6% |\n*5%** |\n\n\nGeneric\nSomething New Is Coming This April 🚗 |\n74|\n16|\n0|\n2% |\n*0%** |\n\n\n\n\n\n\nPersonalization drives action — 5% click rate vs. 0% for generic. Behavior-based messaging creates stronger connection and higher conversion potential."
+  },
+  {
+    "objectID": "MEin3D_Presentation_deliverable-3.html#ao4-cta-feature-optimization",
+    "href": "MEin3D_Presentation_deliverable-3.html#ao4-cta-feature-optimization",
+    "title": "From Clicks to Conversions",
+    "section": "AO4 — CTA Feature Optimization",
+    "text": "AO4 — CTA Feature Optimization\nSerena Shi\n\n\n\n\nOpen Rate +6.7pp\n23.1% → 29.9%\n\n\n\nCTR +2.6×\n1.38% → 3.56%\n\n\n\nCTOR +2×\n5.6% → 11.4%\nZ = −1.90, p = 0.058"
+  },
+  {
+    "objectID": "MEin3D_Presentation_deliverable-3.html#ao5-website-funnel-analysis",
+    "href": "MEin3D_Presentation_deliverable-3.html#ao5-website-funnel-analysis",
+    "title": "From Clicks to Conversions",
+    "section": "AO5 — Website Funnel Analysis",
+    "text": "AO5 — Website Funnel Analysis\nKathleen Juarez\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChannel\nSessions\nConv. Rate\n\n\n\n\nUnassigned\n32\n3.1%\n\n\nOrganic Search\n86\n2.3%\n\n\nOrganic Social\n207\n0.5%\n\n\nDirect\n213\n0.5%\n\n\nTOTAL\n563\n0.9%\n\n\n\n\n99.1% of visitors leave without booking. Sharpest drop at Form Start. Organic Search converts 4× better than Social."
+  },
+  {
+    "objectID": "MEin3D_Presentation_deliverable-3.html#recommendations-summary",
+    "href": "MEin3D_Presentation_deliverable-3.html#recommendations-summary",
+    "title": "From Clicks to Conversions",
+    "section": "Recommendations & Summary",
+    "text": "Recommendations & Summary\n\n\nImmediate (0–30 days)\n\nDeploy AI-personalized CTAs — 2.6× CTR, trust preserved\n\n\nFix the booking form — 92% drop-off at Form Start\n\nMedium-Term (30–90 days)\n\nInvest in Organic Search — highest converting channel\n\n\nScale A/B testing to n ≈ 600+ to confirm AO4\n\nLong-Term (90+ days)\n\nBuild automated email nurture sequences\n\n\nImplement GA4 purchase event tracking\n\n\n\n\n\nAO\nKey Finding\n\n\n\n\nAO1\n10% CTOR baseline — content is bottleneck\n\n\nAO2\nAI preserves trust (p = 0.39)\n\n\nAO3\n5% click vs. 0% generic\n\n\nAO4\n2× CTOR, 2.6× CTR lift\n\n\nAO5\n99.1% don’t book — fix funnel\n\n\n\n\nThe trust is there. The lift is real. Fix the funnel."
+  },
+  {
+    "objectID": "MEin3D_Presentation_deliverable-3.html#thank-you",
+    "href": "MEin3D_Presentation_deliverable-3.html#thank-you",
+    "title": "From Clicks to Conversions",
+    "section": "Thank You",
+    "text": "Thank You\n\nGroup 2 — IBM 6530\nNerina Campos · Jessica Garcia · Kathleen Juarez · Krystal Lee · Serena Shi (Project Lead)\nFaculty Lead: Dr. Elif Ozkaya\nGitHub: github.com/soserena/mein3d_project"
   },
   {
     "objectID": "resume.html",
@@ -56,17 +98,94 @@
     "text": "Human Resources & Talent Support: HR practices; talent acquisition, recruiting, and retention; employee onboarding, offboarding, and documentation; personnel communication and correspondence\nOperations & Administration: Project and time management; purchasing, inventory, and budget coordination; event operations support; team supervision and leadership; community relations and engagement\nCustomer & Guest Experience: Customer service, guest relations, and front‑line event support including Ticketmaster entry operations\nTechnical Skills: MS Office, Google Workspace and Analytics, Slack, Canva, Qualtrics, HubSpot, Tableau, R Studio\nBilingual: English (Fluent), Spanish (Conversational)"
   },
   {
-    "objectID": "analytics.html",
-    "href": "analytics.html",
-    "title": "Marketing Analytics Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
     "section": "",
-    "text": "This page showcases my hands-on experience using data analytics, visualization, and strategic insight to solve real-world marketing problems.\n\n\n\nFrom Clicks to Conversions: AI Powered Email Personalization Strategies for MEin3D"
+    "text": "Welcome to my digital marketing & analytics portfolio — a curated collection of projects showcasing my work in:\n\nDigital marketing strategy\n\nMarketing analytics\n\nBrand ambassador & event marketing\n\n\n\n\n\nDigital Marketing Projects\n\n\nMarketing Analytics Projects\n\n\nResume\n\n\n\nI’m a Digital Marketing Master’s student at Cal Poly Pomona with hands-on experience in:\n\nEvent operations (Rose Bowl Stadium)\nAquatics marketing & HR (RBAC)\nBrand ambassador campaigns (Farmer John Tour and Disney x Brooks)\nData-driven marketing analytics\n\nI love blending creativity with analytics to tell compelling stories.\n\n\n Connect on LinkedIn\n Email Me"
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Welcome",
+    "section": "",
+    "text": "Connect on LinkedIn\n Email Me"
   },
   {
     "objectID": "analytics.html#mein3d-ai-powered-email-personalization-graduate-capstone",
     "href": "analytics.html#mein3d-ai-powered-email-personalization-graduate-capstone",
-    "title": "Marketing Analytics Projects",
-    "section": "",
-    "text": "From Clicks to Conversions: AI Powered Email Personalization Strategies for MEin3D"
+    "title": "From Clicks to Conversions",
+    "section": "MEin3D — AI-Powered Email Personalization (Graduate Capstone)",
+    "text": "MEin3D — AI-Powered Email Personalization (Graduate Capstone)\nFrom Clicks to Conversions: AI Powered Email Personalization Strategies for MEin3D"
+  },
+  {
+    "objectID": "analytics.html#future-research-could-explore-trust-differences-with-larger-more-diverse-samples-or-test-emails-with-stronger-ai-personalization-cues.",
+    "href": "analytics.html#future-research-could-explore-trust-differences-with-larger-more-diverse-samples-or-test-emails-with-stronger-ai-personalization-cues.",
+    "title": "From Clicks to Conversions",
+    "section": "Future research could explore trust differences with larger, more diverse samples or test emails with stronger AI personalization cues.",
+    "text": "Future research could explore trust differences with larger, more diverse samples or test emails with stronger AI personalization cues."
+  },
+  {
+    "objectID": "analytics.html#mein3d-ai-powered-email-personalization-graduate-capstone-1",
+    "href": "analytics.html#mein3d-ai-powered-email-personalization-graduate-capstone-1",
+    "title": "From Clicks to Conversions",
+    "section": "MEin3D — AI-Powered Email Personalization (Graduate Capstone)",
+    "text": "MEin3D — AI-Powered Email Personalization (Graduate Capstone)\n\n\nUse arrow keys or click the arrows to navigate · Click the expand icon for fullscreen"
+  },
+  {
+    "objectID": "analytics.html#business-problem-project-overview",
+    "href": "analytics.html#business-problem-project-overview",
+    "title": "From Clicks to Conversions",
+    "section": "Business Problem & Project Overview",
+    "text": "Business Problem & Project Overview\n\n\n\nMEin3D — small startup specializing in custom 3D-printed figurines for life’s milestones.\nMEin3D lacked automated, personalized, data-driven communication — limiting trust, engagement, and long-term customer value.\n\n\n\n\n\nAO\nQuestion\nMethod\n\n\n\n\nAO1\nNon-personalized baseline?\nFunnel analysis\n\n\nAO2\nDoes AI affect trust?\nOne-way ANOVA\n\n\nAO3\nSocial behavior → engagement?\nA/B test\n\n\nAO4\nWhich CTA drives lift?\nZ-test\n\n\nAO5\nWhere do users drop off?\nGA4 funnel"
+  },
+  {
+    "objectID": "analytics.html#ao1-non-personalized-baseline",
+    "href": "analytics.html#ao1-non-personalized-baseline",
+    "title": "From Clicks to Conversions",
+    "section": "AO1 — Non-Personalized Baseline",
+    "text": "AO1 — Non-Personalized Baseline\nJessica Garcia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetric\nValue\n\n\n\n\nDeliverability\n96.1%\n\n\nOpen Rate\n27.3%\n\n\nClick-to-Open Rate\n10.0%\n\n\nUnsubscribes\n0\n\n\n\n\nKey finding: 90% drop-off between open and click. The content and CTA are the bottleneck — not the subject line. This directly motivates AO4."
+  },
+  {
+    "objectID": "analytics.html#ao2-ai-personalization-trust",
+    "href": "analytics.html#ao2-ai-personalization-trust",
+    "title": "From Clicks to Conversions",
+    "section": "AO2 — AI Personalization & Trust",
+    "text": "AO2 — AI Personalization & Trust\nKrystal Lee\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistic\nValue\n\n\n\n\nMean Trust (AI)\n4.24\n\n\nMean Trust (Control)\n4.16\n\n\nF-Statistic\n0.745\n\n\np-Value\n0.39\n\n\n95% CI (Tukey)\n[−0.280, 0.110]\n\n\n\n\nAI personalization does not erode trust — green light to scale personalized campaigns."
+  },
+  {
+    "objectID": "analytics.html#ao3-social-behavior-engagement",
+    "href": "analytics.html#ao3-social-behavior-engagement",
+    "title": "From Clicks to Conversions",
+    "section": "AO3 — Social Behavior & Engagement",
+    "text": "AO3 — Social Behavior & Engagement\nSerena Shi\nMeta signals (likes, shares, saves, comments) used to classify subscribers → personalized vs. generic\n\n\n\n\n\nEmail Type\nSubject Line\nSent\nOpened\nClicked\nOpen Rate\nClick Rate\n\n\n\n\nPersonalized\nYour Car Could Be Next\n73\n19\n4\n26%\n5%\n\n\nGeneric\nSomething New Is Coming This April\n74\n16\n0\n22%\n0%\n\n\n\n\n\n\nPersonalization drives action — 5% click rate vs. 0% for generic. Behavior-based messaging creates stronger connection and higher conversion potential."
+  },
+  {
+    "objectID": "analytics.html#ao4-cta-feature-optimization",
+    "href": "analytics.html#ao4-cta-feature-optimization",
+    "title": "From Clicks to Conversions",
+    "section": "AO4 — CTA Feature Optimization",
+    "text": "AO4 — CTA Feature Optimization\nNerina Campos\n\n\n\n\nOpen Rate +6.7pp\n23.1% → 29.9%\n\n\n\nCTR +2.6×\n1.38% → 3.56%\n\n\n\nCTOR +2×\n5.6% → 11.4%\nZ = −1.90, p = 0.058"
+  },
+  {
+    "objectID": "analytics.html#ao5-website-funnel-analysis",
+    "href": "analytics.html#ao5-website-funnel-analysis",
+    "title": "From Clicks to Conversions",
+    "section": "AO5 — Website Funnel Analysis",
+    "text": "AO5 — Website Funnel Analysis\nKathleen Juarez\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChannel\nSessions\nConv. Rate\n\n\n\n\nUnassigned\n32\n3.1%\n\n\nOrganic Search\n86\n2.3%\n\n\nOrganic Social\n207\n0.5%\n\n\nDirect\n213\n0.5%\n\n\nTOTAL\n563\n0.9%\n\n\n\n\n99.1% of visitors leave without booking. Sharpest drop at Form Start. Organic Search converts 4× better than Social."
+  },
+  {
+    "objectID": "analytics.html#recommendations-summary",
+    "href": "analytics.html#recommendations-summary",
+    "title": "From Clicks to Conversions",
+    "section": "Recommendations & Summary",
+    "text": "Recommendations & Summary\n\n\nImmediate (0–30 days)\n\nDeploy AI-personalized CTAs — 2.6× CTR, trust preserved\n\n\nFix the booking form — 92% drop-off at Form Start\n\nMedium-Term (30–90 days)\n\nInvest in Organic Search — highest converting channel\n\n\nScale A/B testing to n ≈ 600+ to confirm AO4\n\nLong-Term (90+ days)\n\nBuild automated email nurture sequences\n\n\nImplement GA4 purchase event tracking\n\n\n\n\n\nAO\nKey Finding\n\n\n\n\nAO1\n10% CTOR baseline — content is bottleneck\n\n\nAO2\nAI preserves trust (p = 0.39)\n\n\nAO3\n5% click vs. 0% generic\n\n\nAO4\n2× CTOR, 2.6× CTR lift\n\n\nAO5\n99.1% don’t book — fix funnel\n\n\n\n\nThe trust is there. The lift is real. Fix the funnel."
+  },
+  {
+    "objectID": "analytics.html#thank-you",
+    "href": "analytics.html#thank-you",
+    "title": "From Clicks to Conversions",
+    "section": "Thank You",
+    "text": "Thank You\n\nGroup 2 — IBM 6530\nNerina Campos · Jessica Garcia · Kathleen Juarez · Krystal Lee · Serena Shi (Project Lead)\nFaculty Lead: Dr. Elif Ozkaya\nGitHub: github.com/soserena/mein3d_project"
   }
 ]
