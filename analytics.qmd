@@ -44,7 +44,7 @@ This page showcases my hands-on experience using data analytics, visualization, 
 
 **Trust Item Breakdown by Condition**
 
-![Horizontal bar chart comparing AI vs Control scores across all 10 trust survey items](images/trust-breakdown.png)
+![Horizontal bar chart comparing AI vs Control scores across all 10 trust survey items](images/trust-breakdown.png .png)
 
 ---
 
@@ -57,7 +57,7 @@ This page showcases my hands-on experience using data analytics, visualization, 
 
 ---
 
-## 2. MEin3D — Group Capstone Presentation
+## MEin3D — Group Capstone Presentation
 
 **From Clicks to Conversions: AI Powered Email Personalization Strategies for MEin3D**
 
